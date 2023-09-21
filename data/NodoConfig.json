@@ -1,0 +1,12 @@
+{
+  "Token": "xxxxxxxxx:xxxxxxxxxxxxxxxx",
+  "Name": "LB-PSC",
+  "Version": "1.0.0",
+  "chat_id": [
+    {
+      "id": "1",
+      "value": "xxxxxxx"
+    }    
+  ]
+}
+
